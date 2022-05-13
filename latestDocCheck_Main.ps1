@@ -1,7 +1,7 @@
     $startDate = (Get-Date -Day 1)#.AddMonths(-1)
     #$startDate = Get-Date -Day 1 -Hour 0 -Minute 0 -Second 0 -Millisecond 0
     $endDate = ($startDate).AddDays(15)
-    $publicFolder = 'I:\Document Snap Checks'change
+    $publicFolder = 'I:\Document Snap Checks'
     $prodFolder = 'D:\aascripts\ReportingScripts\docSnapCheck\test'
     #$testFolder = 'I:\Document Snap Checks\TEST'
 
